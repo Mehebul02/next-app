@@ -1,9 +1,8 @@
-import React from 'react';
 
 const SettingPage = () => {
     return (
         <div>
-            <h1>Setting page</h1>
+            <h1>Setting Layout</h1>
         </div>
     );
 };
