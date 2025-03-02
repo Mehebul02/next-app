@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "name": "iPhone 14 Pro",
+        "brand": "Apple",
+        "category": "Smartphone",
+        "price": 999.99,
+        "image": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?q=80&w=2107&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": 1199.99,
+        "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?q=80&w=2084&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "MacBook Pro 16",
+        "brand": "Apple",
+        "category": "Laptop",
+        "price": 2499.99,
+        "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "PlayStation 5",
+        "brand": "Sony",
+        "category": "Gaming Console",
+        "price": 499.99,
+        "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
+  
