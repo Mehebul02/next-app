@@ -1,6 +1,7 @@
 {
     "products": [
       {
+        "id":1,
         "name": "iPhone 14 Pro",
         "brand": "Apple",
         "category": "Smartphone",
@@ -8,6 +9,7 @@
         "image": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?q=80&w=2107&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
+        "id":2,
         "name": "Samsung Galaxy S23 Ultra",
         "brand": "Samsung",
         "category": "Smartphone",
@@ -15,6 +17,7 @@
         "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?q=80&w=2084&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
+        "id":3,
         "name": "MacBook Pro 16",
         "brand": "Apple",
         "category": "Laptop",
@@ -22,11 +25,28 @@
         "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
+        "id":4,
         "name": "PlayStation 5",
         "brand": "Sony",
         "category": "Gaming Console",
         "price": 499.99,
         "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id":5,
+        "name": "PlayHp 5",
+        "brand": "Sony",
+        "category": "Gaming Console",
+        "price": 229.99,
+        "image": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id":6,
+        "name": "PlayDeal 6",
+        "brand": "Sony",
+        "category": "Gaming Console",
+        "price": 3.99,
+        "image": "https://images.unsplash.com/photo-1498049860654-af1a5c566876?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     ]
   }
